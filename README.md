@@ -132,6 +132,47 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   20% off all certifications with code `SECURE26` \
   Note: this is a site-wide code, not labelled as a Black Friday deal; end date unknown
 
+- ✅ **Modern Security** - AI Security and Application Security training
+  https://www.modernsecurity.io/courses/ai-security-certification \
+  20% off with code `msec-bf20`
+
+- ✅ **RedTeamLeaders** - Red team courses
+  https://courses.redteamleaders.com/catalog \
+  50% off with code `BLACKFRIDAY50`
+
+- ✅ **GIAC** - Security certifications
+  https://www.giac.org/#specials \
+  30% off with code `30Cyber26` \
+  Deal ends: not stated
+
+- ✅ **pwn.guide** - Learn cybersecurity web, hardware, wireless, forensics, defense & certifications
+  https://pwn.guide/pricing \
+  20% off plans with code `BLKFRI20`
+
+- ✅ **Blu Raven Academy** - Hands-on KQL training for threat hunting, detection engineering and security analysis
+  https://academy.bluraven.io/black-friday-2026 \
+  Up to 40% off (most courses 40%, Advanced Threat Hunting 25%) with code `BFCM25`
+
+- ✅ **TheXero Training Academy** - Offensive cybersecurity and wireless hacking training
+  https://training.thexero.co.uk/blackfriday \
+  67% off (shown on the page) \
+  Deal ends: not stated
+
+- ⚠️ **SecurityPaths Academy** - Security training
+  https://academy.securitypaths.com/courses \
+  25% off with code `blackfriday26` \
+  Note: the code is on the page; the percentage was not confirmed there
+
+- ⚠️ **Practical TLS** (Practical Networking) - SSL/TLS deep dive course
+  https://classes.pracnet.net/courses/practical-tls \
+  Code `BF2026TLS` is on the page \
+  Note: the 83% price drop was not confirmed
+
+- ⚠️ **HackTricks Training** - Pentesting courses and bundles
+  https://hacktricks-training.com/bundles/ \
+  25% off bundles (shown on the page) \
+  Note: the extra 10% on bundles was not confirmed
+
 ### 🧪 Practical Labs
 
 - ✅ **Invictus Incident Response Academy & CloudLabs** - Incident response courses and labs \
@@ -154,6 +195,16 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 - ✅ **TrainSec** - Break into cybersecurity, Windows systems and hardware exploitation \
   https://trainsec.net/cybersecurity-courses-black-friday-2026/ \
   40% off individual courses with code `BF2026` (live events, learning paths, bundles and subscriptions are excluded)
+
+- ⚠️ **Wireshark Labs** - Packet analysis labs
+  https://wiresharklabs.org/ \
+  Code `PACKETFRIDAY` is on the page \
+  Note: the page does not say Black Friday, so check the terms
+
+- ⚠️ **ByteBlind** - Android app hacking course
+  https://training.byteblind.com/products/courses/android-app-hacking \
+  Code `BYTENOV40` is on the page \
+  Note: the page does not say Black Friday, so check the terms
 
 ### 📝 Exams
 
