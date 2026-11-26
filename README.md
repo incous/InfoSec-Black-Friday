@@ -45,177 +45,139 @@ Notes on reading it:
 
 ## Deals (2026)
 
-Verified on the vendor's own page. Re-verify before buying: codes and dates change, and some items are not confirmed yet.
+Legend: ✅ verified on the vendor's page · ⚠️ partly verified (see the note) · ❌ removed after checking (see the bottom of this section)
 
-### Tools
+Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page before you buy.
 
-**Beagle Security** - AI-powered automated pentesting for web apps, APIs & GraphQL \
-https://beaglesecurity.com/black-friday-sale  
-35% off annual plans (applied automatically), or 20% off monthly plans with code `BFCMM26` \
-Deal valid: 25th November - 4th December 2026
+### 🛠️ Tools
 
-**Vulnsy** - Pentest reporting and management software \
-https://www.vulnsy.com  
-50% off your first 6 months on monthly plans with code `BLACKFRIDAY` \
-Deal ends: 31st December 2026
+- ✅ **Beagle Security** - AI-powered automated pentesting for web apps, APIs & GraphQL
+  https://beaglesecurity.com/black-friday-sale
+  35% off annual plans (applied automatically), or 20% off monthly plans with code `BFCMM26`
+  Deal valid: 25 Nov - 4 Dec 2026
+- ✅ **Vulnsy** - Pentest reporting and management software
+  https://www.vulnsy.com
+  50% off your first 6 months on monthly plans with code `BLACKFRIDAY`
+  Deal ends: 31 Dec 2026
+- ⚠️ **Pulsedive Threat Intelligence** - Threat intelligence solutions
+  https://pulsedive.com/purchase/pro
+  35% off annual Pro with code `BFCM26`
+  Deal runs through 1 Dec (per the pricing page)
+- ✅ **HTTP Toolkit** - Open-source HTTP proxy, debugger & client
+  https://httptoolkit.com/
+  Black Friday: Lifetime Pro for the price of 2 years
+  Deal ends: 1 Dec 2026
 
-**Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
-https://pulsedive.com/purchase/pro  
-35% off Pro (shown on the pricing page; check the page for any code) \
-Deal ends: not stated
+### 🎓 Online Courses & Training
 
-**Exploit Pack** - Command & Control and exploitation frameworks with 0days and 39,500+ exploits \
-https://www.exploitpack.com  
-20% off site-wide Black Friday discount; coupon `LIFETIME` upgrades a personal licence to lifetime (personal licences only) \
-Deal ends: not stated
+- ⚠️ **AppSecEngineer** - Hands-on AppSec, Cloud Security, AI Security and Threat Modeling training
+  https://www.appsecengineer.com/individuals/pricing
+  40% off with code `LEVELUP40` (confirmed on the banner)
+  Note: annual-plan scope not confirmed on the pricing page
+- ✅ **CloudBreach** - Offensive Azure & AWS security training and certifications
+  https://cloudbreach.io/blackfriday
+  30% off every course, `BlackFriday26` is pre-applied at checkout
+  Deal ends: 7 Dec 2026
+- ⚠️ **Practical DevSecOps** - AI Security, DevSecOps and Product Security courses
+  https://www.practical-devsecops.com/infosec-black-friday-deals-2026/
+  Up to $600 off bundles
+  Note: the 15% off certifications was not confirmed
+- ✅ **TCM Academy** - Blue & Red team training and certifications
+  https://certifications.tcm-sec.com/
+  50% off Academy memberships; 20% off certifications, learning paths and live trainings
+  Membership discount ends around 30 Nov (countdown on the page, date not printed)
+- ⚠️ **8kSec Academy** - Mobile and AI security training
+  https://academy.8ksec.io/
+  Discounted prices valid until 4 Dec 2026
+  Note: the 30 Nov early-bird date was not confirmed
+- ⚠️ **Centri (formerly Security Blue Team)** - BTL0 / BTL1 / BTL2 training and certifications
+  https://www.centri.org/
+  Save up to 40% on certifications, 27 Nov - 4 Dec 2026
+  Note: the brand has moved to Centri; the old Security Blue Team link redirects
+- ✅ **Pluralsight** - Online tech and security learning platform
+  https://www.pluralsight.com/individuals/pricing
+  60% off new Individual plans, applied automatically in cart (non-business use)
+  Deal ends: 6 Dec 2026, 11:59 pm ET
+- ⚠️ **Invoke RE** - Malware analysis training
+  https://training.invokere.com/pricing
+  20% off all courses and bundles
+  Deal ends: 1 Dec
+  Note: IDA 50% off with `INVOKE50` not checked
+- ✅ **Altered Security** - Online security training labs
+  https://www.alteredsecurity.com/online-labs
+  Up to 25% off when you bundle two or more learning paths (applied automatically)
+  Azure course: 20% off with code `AZURE20OFF`
+- ✅ **Mobile Hacking Lab** - Offensive mobile security training
+  https://www.mobilehackinglab.com/black-friday-deals-mobile-security
+  Seven Black Friday deals from €249, up to 61% off
+- ⚠️ **Mosse Cyber Security Institute** - Cyber security training and certifications
+  https://www.mosse-institute.com/certifications.html
+  20% off all certifications with code `SECURE26`
+  Note: this is a site-wide code, not labelled as a Black Friday deal; end date unknown
 
-**HTTP Toolkit** - Open-source HTTP proxy, debugger & client \
-https://httptoolkit.com/?ref=0x90n  
-Black Friday: Lifetime Pro for the price of 2 years \
-Deal ends: 1st December 2026
+### 🧪 Practical Labs
 
-### Online Courses & Training
+- ✅ **Invictus Incident Response Academy & CloudLabs** - Incident response courses and labs
+  https://cloudlabs.invictus-ir.com
+  20% off Academy courses and labs (Standard and Advanced plans) with code `BLACKFRIDAY26`
+  Deal ends: 7 Dec 2026
+- ✅ **PentesterLab** - Practical pentesting & hacking labs
+  https://pentesterlab.com/pro
+  27% off PRO ($146.52/year); security code review training $699 (was $899)
+  Deal ends: 2 Dec 2026
+- ✅ **iximiuz Labs** - Hands-on labs for Linux, containers, Kubernetes and cloud
+  https://labs.iximiuz.com/pricing
+  Annual $30/year (38% off), lifetime $72 (50% off)
+  Deal ends: 30 Nov 2026
 
-**AppSecEngineer** - Hands-on training for AppSec, Cloud Security, AI Security and Threat Modeling \
-https://www.appsecengineer.com/individuals/pricing  
-40% off Annual Plans with code `LEVELUP40` \
-Deal ends: not stated
+### 🎯 Mini Courses
 
-**CloudBreach** - Advanced offensive Azure & AWS security training and certifications \
-https://cloudbreach.io/blackfriday/  
-30% off every course, code `BlackFriday26` is applied at checkout \
-Deal ends: 7th December 2026
+- ✅ **TrainSec** - Break into cybersecurity, Windows systems and hardware exploitation
+  https://trainsec.net/cybersecurity-courses-black-friday-2026/
+  40% off individual courses with code `BF2026` (live events, learning paths, bundles and subscriptions are excluded)
 
-**Practical DevSecOps** - AI Security, DevSecOps and Product Security courses \
-https://www.practical-devsecops.com/infosec-black-friday-deals-2025/  
-15% off all certifications, up to $600 off bundles \
-Deal ends: countdown on page (no date stated)
+### 📝 Exams
 
-**TCM Academy** - Blue & Red team training and certifications \
-https://certifications.tcm-sec.com/  
-50% off Academy memberships, 20% off certifications, 20% off learning paths and live trainings \
-Membership discount ends 30th November (per pricing page)
+- ⚠️ **The SecOps Group** - Pentesting exams
+  https://pentestingexams.com/offer/
+  90% off all pentesting exams with code `BF-90`
+  Note: matches the page, but 90% sits at the top of the "too good to be true" range. Verify before you buy.
 
-**8kSec Academy** - Mobile application security and offensive iOS/Android internals training \
-https://academy.8ksec.io/  
-Early-bird discounted prices on courses \
-Early bird ends 30th November; discounted prices valid until 4th December
+### 🔌 Hardware
 
-**Security Blue Team** - BTL0 / BTL1 / BTL2 training and certifications \
-https://www.securityblue.team/  
-Black Friday offers on certifications and training bundles (check page for the exact discount) \
-Deal valid: 27th November - 4th December 2026
+- ✅ **Hak5** - Pentester / red teamer hardware and tools
+  https://shop.hak5.org/collections/bfcm
+  "Hacked November": up to 60% off holiday gift packs and sale items
+- ⚠️ **Covert Instruments** - Lock picking tools and covert entry gear
+  https://covertinstruments.com/
+  Black Friday Sale is live
+  Note: discount percentage and end date not confirmed
 
-**Pluralsight** - Online tech and security learning platform \
-https://www.pluralsight.com/individuals/pricing  
-60% off new Individual plans (non-business), applied automatically in cart \
-Deal ends: 6th December 2026 (11:59pm ET)
+### ☁️ Services
 
-**Invoke RE** - Malware analysis training \
-https://training.invokere.com/pricing  
-20% off all training courses and bundles \
-IDA Pro: 50% off via Hex-Rays with code `INVOKE50` (individual licences only) \
-Deal ends: 1st December
+- ✅ **Proton Mail / VPN / Pass / Drive** - Encrypted services
+  https://proton.me/mail/black-friday
+  50% off Proton Unlimited (Mail, VPN, Drive, Pass)
+- ✅ **Tuta Mail** - Encrypted email service
+  https://tuta.com/black-friday
+  Save 62.5% on the Legend plan (per the page)
+- ✅ **NordVPN** - Virtual private network
+  https://nordvpn.com/pricing
+  78% off + 3 extra months
+- ✅ **ExpressVPN** - Virtual private network
+  https://www.expressvpn.com/pricing
+  Up to 81% off 2-year plans
+- ✅ **CyberGhost VPN** - Virtual private network
+  https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
+  Black Friday: save 88% on multi-year plans
 
-**Mosse Cyber Security Institute** - Cyber security training and certifications \
-https://www.mosse-institute.com/certifications.html  
-20% off all certifications with code `SECURE26` \
-Deal ends: not stated
+### ❌ Removed after checking
 
-**Altered Security** - Online security training labs \
-https://www.alteredsecurity.com/online-labs  
-Up to 25% off when you bundle two or more learning paths (applied automatically) \
-Azure course: 20% off with code `AZURE20OFF` \
-Deal ends: not stated
-
-**Mobile Hacking Lab** - Offensive mobile security training \
-https://www.mobilehackinglab.com/black-friday-deals-mobile-security  
-Seven Black Friday deals from €249, up to 61% off \
-Deal ends: countdown on page (no date stated)
-
-**OffSec Learn One** - Learn One annual subscription \
-https://www.offsec.com/blog/learn-one-promo/  
-20% off the Learn One subscription (or $550 off) \
-Deal valid: Black Friday to Cyber Monday (end date not stated)
-
-**LetsDefend** - Blue team training \
-https://app.letsdefend.io/pricing  
-50% off for students: sign up with a .edu email \
-NOTE: LetsDefend content is moving to Hack The Box Academy and Labs; check the page for current status \
-Deal ends: not stated
-
-### Practical Labs
-
-**Invictus Incident Response Academy & CloudLabs** - Incident response courses and hands-on labs \
-https://cloudlabs.invictus-ir.com  
-20% off Academy courses and labs (Standard and Advanced plans) with code `BLACKFRIDAY26` \
-Deal ends: 7th December 2026
-
-**PentesterLab** - Practical pentesting & hacking labs \
-https://pentesterlab.com/pro  
-27% off PRO ($146.52/year); Student plan $25.99 for 3 months \
-Security code review training $699 (was $899) \
-Deal ends: 2nd December 2026
-
-**iximiuz Labs** - Hands-on labs for Linux, containers, Kubernetes and cloud \
-https://labs.iximiuz.com/premium  
-Black Friday: 50% off annual plan ($60/year), 65% off Lifetime (pay once) \
-Lifetime plan is expected to stop being sold after 2026 \
-Deal ends: 30th November 2026
-
-### Mini Courses
-
-**trainsec** - Break into cybersecurity, Windows systems and hardware exploitation \
-https://trainsec.net/cybersecurity-courses-black-friday-2025/  
-Individual courses with code `BF2026` at checkout (live events, learning paths, bundles and subscriptions are excluded) \
-Deal valid: November 2026
-
-### Exams
-
-**The SecOps Group** - Pentesting exams \
-https://pentestingexams.com/offer/  
-90% off all pentesting exams with code `BF-90` \
-Deal ends: not stated
-
-### Hardware
-
-**Hak5** - Pentester / red teamer hardware and tools :see_no_evil: \
-https://shop.hak5.org/collections/bfcm  
-Hacked November: up to 60% off holiday gift packs and sale items (see the BFCM page for codes) \
-Deal valid: November 2026 (end date not stated)
-
-**Covert Instruments** - Lock picking tools and covert entry gear :see_no_evil: \
-https://covertinstruments.com/collections/2025-black-friday-sale  
-Black Friday Sale, discount shown on the page; military & first responder discount available \
-Deal valid: 20th November - 6th December 2026
-
-### Services
-
-**Proton Mail / VPN / Pass / Drive** - Encrypted services \
-https://proton.me/mail/black-friday  
-50% off Proton Unlimited (Mail, VPN, Drive, Pass), with extra offers on individual products (see the Proton Black Friday pages) \
-Deal ends: not stated
-
-**Tuta Mail** - Encrypted email service \
-https://tuta.com/black-friday  
-62% off the Legend plan for the first year (new and existing yearly subscribers) \
-Deal valid: Black Weeks (see https://tuta.com/blog/black-weeks-at-tuta)
-
-**NordVPN** - Virtual private network \
-https://nordvpn.com/pricing  
-78% off + 3 extra months \
-Deal ends: not stated
-
-**ExpressVPN** - Virtual private network \
-https://www.expressvpn.com/order  
-Up to 81% off 2-year plans \
-Deal ends soon (Black Friday sale; end date not stated)
-
-**CyberGhost VPN** - Virtual private network \
-https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
-Black Friday: save 88% on multi-year plans \
-Deal ends: not stated
-
+- **Exploit Pack**: only 20% off a training bundle was found. The site-wide discount and the `LIFETIME` code were not found.
+- **OffSec Learn One**: the promo post is dated 30 Oct 2025, so it may be last year's offer.
+- **LetsDefend**: annual subscriptions have been discontinued and content is moving to Hack The Box, so the student offer may not be purchasable.
+- **IASE**: code `IOSSUMMER` (15%) expired 31 Aug 2026.
+- **CTIChef** free feed access: expired 1 Jan 2026.
 
 ## Contributing a deal
 
