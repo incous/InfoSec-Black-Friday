@@ -94,13 +94,14 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Deal ends: countdown on the page (no date stated)
 
 - ✅ **TCM Academy** - Blue & Red team training and certifications \
-  https://certifications.tcm-sec.com/ \
-  50% off Academy memberships; 20% off certifications, learning paths and live trainings \
-  Membership discount ends around 30 Nov (countdown on the page, date not printed)
+  https://tcm-sec.com/black-friday-deals/ \
+  50% off the first year of Academy membership; 20% off certifications, learning paths and live training \
+  Deal ends: 30 Nov 2026
 
 - ✅ **8kSec Academy** - Mobile and AI security training \
   https://academy.8ksec.io/ \
-  Discounted prices valid until 4 Dec 2026
+  15% off on-demand training \
+  Valid until 4 Dec 2026
 
 - ✅ **Centri (formerly Security Blue Team)** - BTL0 / BTL1 / BTL2 training and certifications \
   https://www.centri.org/ \
@@ -158,20 +159,61 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   67% off (shown on the page) \
   Deal ends: not stated
 
-- ⚠️ **SecurityPaths Academy** - Security training \
+- ✅ **SecurityPaths Academy** - Security training \
   https://academy.securitypaths.com/courses \
-  25% off with code `blackfriday26` \
-  Note: the code is on the page; the percentage was not confirmed there
+  25% off courses, lab credits and exams with code `blackfriday26`
 
-- ⚠️ **Practical TLS** (Practical Networking) - SSL/TLS deep dive course \
+- ✅ **Practical TLS** (Practical Networking) - SSL/TLS deep dive course \
   https://classes.pracnet.net/courses/practical-tls \
-  Code `BF2026TLS` is on the page \
-  Note: the 83% price drop was not confirmed
+  Code `BF2026TLS`: originally $297, only $50 \
+  Deal ends: 7 Dec 2026, 05:00 UTC (countdown on the page; price shown until 6 Dec)
 
-- ⚠️ **HackTricks Training** - Pentesting courses and bundles \
+- ✅ **HackTricks Training** - Pentesting courses, labs, exams and bundles \
   https://hacktricks-training.com/bundles/ \
-  25% off bundles (shown on the page) \
-  Note: the extra 10% on bundles was not confirmed
+  20% off courses, 15% off labs & exams, and an extra 10% off bundles
+
+- ✅ **OffSec Learn One** - Learn One subscription \
+  https://www.offsec.com/blog/learn-one-promo/ \
+  $250 off the bundle (1 course and 1 certification attempt within 90 days), or 20% off the Learn One plan (1 course and 2 certification attempts within 1 year)
+
+
+- ✅ **Hexordia** - DFIR virtual live training \
+  https://learn.hexordia.com/s/store \
+  35% off all classes with code `26BF35`
+
+
+- ✅ **AppSec.training** - Application security training \
+  https://appsec.training \
+  50% off with code `blackfriday`
+
+
+- ✅ **White Knight Labs** - On-demand and live training \
+  https://training.whiteknightlabs.com/ \
+  50% off with code `WKLBLACKFRIDAY26` \
+  Valid until 18 Dec 2026
+
+
+- ✅ **Just Hacking Training** - Hacking training courses \
+  https://www.justhacking.com/deals/ \
+  25% off everything with code `BFF25`
+
+
+- ✅ **MalDev Academy** - Windows malware development and offensive training \
+  https://maldevacademy.com/ \
+  25% off with code `BLKFRIDAY25`
+
+
+- ✅ **Blue Cape Security** - Training tracks \
+  https://bluecapesecurity.com/training-tracks/ \
+  HERO Bundle $1,497 (until 30 Nov), then $2,197. Everything released this month is included \
+  Deal ends: 30 Nov 2026
+
+
+- ✅ **OnlySecurity** - Security training \
+  https://onlysecurity.com/black-friday/ \
+  6 new ultimate courses at $59.99 (launch price); paid courses 15% off \
+  Deal ends: 30 Nov 2026, 23:59 UK time
+
 
 ### 🧪 Practical Labs
 
@@ -190,21 +232,37 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Annual $30/year (38% off), lifetime $72 (50% off) \
   Deal ends: 30 Nov 2026
 
+- ✅ **GenAI Security Lab** - AI security labs \
+  https://genaisecuritylab.com/pricing \
+  40% off the 4-Month Pass and the yearly Individual plan (applied automatically at checkout)
+
+
+- ✅ **LabEx** - Linux, DevOps and cybersecurity labs \
+  https://labex.io/pricing \
+  Pro 1-year plan 30% off, Pro 2-year plan 50% off \
+  Deal ends: 28 Nov 2026 (UTC)
+
+
 ### 🎯 Mini Courses
 
 - ✅ **TrainSec** - Break into cybersecurity, Windows systems and hardware exploitation \
   https://trainsec.net/cybersecurity-courses-black-friday-2026/ \
   40% off individual courses with code `BF2026` (live events, learning paths, bundles and subscriptions are excluded)
 
-- ⚠️ **Wireshark Labs** - Packet analysis labs \
+- ✅ **Wireshark Labs** - Packet analysis labs \
   https://wiresharklabs.org/ \
-  Code `PACKETFRIDAY` is on the page \
-  Note: the page does not say Black Friday, so check the terms
+  Code `PACKETFRIDAY`: $100 off WCA Exam Prep, $70 off Ranger - Real World Classes \
+  Both items include lifetime access
 
-- ⚠️ **ByteBlind** - Android app hacking course \
+- ✅ **ByteBlind** - Android App Hacking Mastery course \
   https://training.byteblind.com/products/courses/android-app-hacking \
-  Code `BYTENOV40` is on the page \
-  Note: the page does not say Black Friday, so check the terms
+  40% off with code `BYTENOV40`: $149 down to $89.40 \
+  Deal ends: 30 Nov 2026, 17:00 UTC (1 Dec 00:00 in Vietnam time)
+
+- ✅ **CyberWarFare Labs** - Cyber security courses and bundles \
+  https://cyberwarfare.live/black_friday \
+  Up to 50% off bundles
+
 
 ### 📝 Exams
 
