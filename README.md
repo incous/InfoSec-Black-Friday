@@ -143,10 +143,10 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 
 - ✅ **GIAC** - Security certifications \
   https://www.giac.org/#specials \
-  30% off select GIAC products through 1 Dec 2026, including: \
-  - [Applied Knowledge Certifications](https://www.giac.org/get-started/applied-knowledge/) \
-  - [Practice Tests](https://www.giac.org/frequently-asked-questions/?q=practice%20tests%20&msc=main-nav) \
-  - [Demo Questions](https://www.giac.org/frequently-asked-questions/?q=demo%20questions&msc=main-nav) \
+  30% off select GIAC products through 1 Dec 2026, including:
+  - [Applied Knowledge Certifications](https://www.giac.org/get-started/applied-knowledge/)
+  - [Practice Tests](https://www.giac.org/frequently-asked-questions/?q=practice%20tests%20&msc=main-nav)
+  - [Demo Questions](https://www.giac.org/frequently-asked-questions/?q=demo%20questions&msc=main-nav)
   - [Extensions](https://www.giac.org/frequently-asked-questions/?q=extensions&msc=main-nav)
 
 - ✅ **pwn.guide** - Learn cybersecurity web, hardware, wireless, forensics, defense & certifications \
