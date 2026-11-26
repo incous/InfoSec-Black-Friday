@@ -143,8 +143,11 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 
 - ✅ **GIAC** - Security certifications \
   https://www.giac.org/#specials \
-  30% off with code `30Cyber26` \
-  Deal ends: not stated
+  30% off select GIAC products through 1 Dec 2026, including: \
+  - [Applied Knowledge Certifications](https://www.giac.org/get-started/applied-knowledge/) \
+  - [Practice Tests](https://www.giac.org/frequently-asked-questions/?q=practice%20tests%20&msc=main-nav) \
+  - [Demo Questions](https://www.giac.org/frequently-asked-questions/?q=demo%20questions&msc=main-nav) \
+  - [Extensions](https://www.giac.org/frequently-asked-questions/?q=extensions&msc=main-nav)
 
 - ✅ **pwn.guide** - Learn cybersecurity web, hardware, wireless, forensics, defense & certifications \
   https://pwn.guide/pricing \
@@ -157,7 +160,7 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 - ✅ **TheXero Training Academy** - Offensive cybersecurity and wireless hacking training \
   https://training.thexero.co.uk/blackfriday \
   67% off (shown on the page) \
-  Deal ends: not stated
+  Deal ends: 1 Dec 2026
 
 - ✅ **SecurityPaths Academy** - Security training \
   https://academy.securitypaths.com/courses \
