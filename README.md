@@ -226,6 +226,7 @@ If this list doesn't cover what you need, these repos collect deals more broadly
 
 I found these via the DEV post [Best GitHub Repositories to Submit Your Black Friday Deals in 2026](https://dev.to/vinishbhaskar/best-github-repositories-to-submit-your-black-friday-deals-in-2026-3ii9) by vinishbhaskar, which is worth a read for a fuller rundown, and via GitHub search.
 
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - community-maintained awesome list of Black Friday and Cyber Monday deals
 - [piotrkulpinski/black-friday-deals](https://github.com/piotrkulpinski/black-friday-deals) - deals for developers and designers (SaaS tools, UI kits, templates, AI tools)
 - [rxrsec/black-friday-deals-2026](https://github.com/rxrsec/black-friday-deals-2026) - broad list that includes a security-professional section
 - [techiescamp/black-friday-deals](https://github.com/techiescamp/black-friday-deals) - DevOps, Kubernetes and Linux Foundation certifications, courses, books
