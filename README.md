@@ -77,6 +77,31 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Black Friday: Lifetime Pro for the price of 2 years \
   Deal ends: 1 Dec 2026
 
+- ✅ **Akev** - Pro licence \
+  https://akev.dev/pricing \
+  30% off the Pro licence (one-time) with code `BLACKFRIDAY`
+
+- ✅ **OffSeq Breach** - Breach monitoring \
+  https://breach.offseq.com/#pricing \
+  50% off the first billing period of any paid plan with code `BLACK`
+
+- ✅ **PortDroid** - Swiss army knife of network security tools for Android \
+  https://portdroid.net/black-friday-2026/ \
+  50% off PortDroid Pro with code `CYBER_2026`
+
+- ✅ **EnigmaIS** - Starter Pack \
+  https://myownca.com/ \
+  80% off the Starter Pack with code `BLACK-FRIDAY-2026-STARTER-80`
+
+- ✅ **S4E** - S4E Pro annual plan \
+  https://s4e.io/black-friday \
+  60% off a full year of S4E Pro with code `BLACKFRIDAY2026`
+
+- ⚠️ **Scarlet Shark** - Digital intelligence and threat hunting data \
+  https://scarletshark.com/promo/cybermonday2026.html \
+  Cyber Monday promo; code `CyberMonday2026` is shown on the page \
+  Note: the 100% off Basic plan for 5 months was not confirmed
+
 ### 🎓 Online Courses & Training
 
 - ✅ **AppSecEngineer** - Hands-on AppSec, Cloud Security, AI Security and Threat Modeling training \
@@ -218,6 +243,23 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Deal ends: 30 Nov 2026, 23:59 UK time
 
 
+- ✅ **OSINT Combine Academy** - OSINT training \
+  https://training.osintcombine.com/ \
+  26% off on-demand courses and bundles; 40% off AI Essentials; 30% off Agentic AI for OSINT \
+  Codes on the page: `all-courses-all-bundles`, `ai-essentials-2026`, `ctrl_alt_agent`
+
+- ✅ **ISA** - Industrial cybersecurity training and standards \
+  https://programs.isa.org/blackfriday26 \
+  25% off eligible training and standards
+
+- ✅ **Cloud Security Alliance** - Cloud security training and exam tokens \
+  https://cloudsecurityalliance.org/p/cyber-monday-2026 \
+  50% off CSA training and exam tokens (CCSK, CCZT, TAISE)
+
+- ✅ **SEKTOR7** - Red team and malware development courses \
+  https://sektor7.institute/ \
+  Up to 40% off courses
+
 ### 🧪 Practical Labs
 
 - ✅ **Invictus Incident Response Academy & CloudLabs** - Incident response courses and labs \
@@ -245,6 +287,11 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Pro 1-year plan 30% off, Pro 2-year plan 50% off \
   Deal ends: 28 Nov 2026 (UTC)
 
+
+- ✅ **SecDim** - In-repository appsec and devsecops wargame \
+  https://secdim.com/pricing \
+  Professional plan 35% off with code `APPSECONABUDGET2026` \
+  Team plan 25% off with code `APPSECTEAM2026`
 
 ### 🎯 Mini Courses
 
