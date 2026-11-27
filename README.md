@@ -116,6 +116,20 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   30% off all paid plans: Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo \
   Deal valid until 31 Dec 2026
 
+- ✅ **Termalin** - Yearly Pro plan \
+  https://termal.in/pricing/ \
+  16 months of yearly Pro for the price of 12 ($96, $8 → $6/mo), plus 100 GB cloud storage \
+  Deal valid until 1 Dec 2026
+
+- ✅ **AdverseMonitor** - Threat and exposure monitoring \
+  https://adversemonitor.com/black-friday \
+  40–60% off the first year of any yearly plan (MSSP plans from $234 for the first year) \
+  Deal valid until end of 2026
+
+- ✅ **Grayhat Warfare** - Public bucket search and misconfigured storage \
+  https://grayhatwarfare.com/packages \
+  Premium €160/year, Enterprise €450/year (see the site for details)
+
 ### 🎓 Online Courses & Training
 
 - ✅ **AppSecEngineer** - Hands-on AppSec, Cloud Security, AI Security and Threat Modeling training \
