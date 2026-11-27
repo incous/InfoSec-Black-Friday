@@ -79,28 +79,32 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 
 - ✅ **Akev** - Pro licence \
   https://akev.dev/pricing \
-  30% off the Pro licence (one-time) with code `BLACKFRIDAY`
+  30% off the Pro licence (one-time) with code `BLACKFRIDAY` \
+  Deal ends: 6 Dec 2026
 
 - ✅ **OffSeq Breach** - Breach monitoring \
   https://breach.offseq.com/#pricing \
-  50% off the first billing period of any paid plan with code `BLACK`
+  50% off the first billing period of any paid plan with code `BLACK` \
+  Deal ends: 1 Dec 2026 (UTC)
 
 - ✅ **PortDroid** - Swiss army knife of network security tools for Android \
   https://portdroid.net/black-friday-2026/ \
-  50% off PortDroid Pro with code `CYBER_2026`
+  50% off PortDroid Pro Lifetime: $9.49 → $4.69 (£8.49 → £4.19) with code `CYBER_2026` \
+  Offer starts 5 Nov 2026; deal ends 4 Dec 2026, 23:59 (time zone not stated)
 
-- ✅ **EnigmaIS** - Starter Pack \
+- ✅ **EnigmaIS** - myOwnCA \
   https://myownca.com/ \
-  80% off the Starter Pack with code `BLACK-FRIDAY-2026-STARTER-80`
+  80% off the Starter Pack with code `BLACK-FRIDAY-2026-STARTER-80` \
+  Deal valid through 30 Nov 2026 (Warsaw time)
 
 - ✅ **S4E** - S4E Pro annual plan \
   https://s4e.io/black-friday \
-  60% off a full year of S4E Pro with code `BLACKFRIDAY2026`
+  60% off a full year of S4E Pro with code `BLACKFRIDAY2026`, for new customers \
+  Offer valid until 1 Dec 2026 (UTC)
 
-- ⚠️ **Scarlet Shark** - Digital intelligence and threat hunting data \
+- ✅ **Scarlet Shark** - Digital intelligence and threat hunting data \
   https://scarletshark.com/promo/cybermonday2026.html \
-  Cyber Monday promo; code `CyberMonday2026` is shown on the page \
-  Note: the 100% off Basic plan for 5 months was not confirmed
+  Apply code `CyberMonday2026` to get a free 5 months on the Basic plan
 
 ### 🎓 Online Courses & Training
 
@@ -146,8 +150,9 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 
 - ✅ **Altered Security** - Online security training labs \
   https://www.alteredsecurity.com/online-labs \
-  Up to 25% off when you bundle two or more learning paths (applied automatically) \
-  Azure course: 20% off with code `AZURE20OFF`
+  Up to 25% off when you bundle two or more learning paths \
+  Azure course: 20% off with code `AZURE20OFF` \
+  Valid 23 Nov - 6 Dec 2026
 
 - ✅ **Mobile Hacking Lab** - Offensive mobile security training \
   https://www.mobilehackinglab.com/black-friday-deals-mobile-security \
@@ -246,15 +251,18 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 - ✅ **OSINT Combine Academy** - OSINT training \
   https://training.osintcombine.com/ \
   26% off on-demand courses and bundles; 40% off AI Essentials; 30% off Agentic AI for OSINT \
-  Codes on the page: `all-courses-all-bundles`, `ai-essentials-2026`, `ctrl_alt_agent`
+  Codes on the page: `all-courses-all-bundles`, `ai-essentials-2026`, `ctrl_alt_agent` \
+  Ends Monday, 30 Nov 2026
 
 - ✅ **ISA** - Industrial cybersecurity training and standards \
   https://programs.isa.org/blackfriday26 \
-  25% off eligible training and standards
+  25% off eligible training and standards with code `BFCM26` at checkout \
+  Sale runs 17 to 30 Nov 2026
 
 - ✅ **Cloud Security Alliance** - Cloud security training and exam tokens \
   https://cloudsecurityalliance.org/p/cyber-monday-2026 \
-  50% off CSA training and exam tokens (CCSK, CCZT, TAISE)
+  50% off CSA training and exam tokens (CCSK, CCZT, TAISE) \
+  Applies on 30 Nov 2026 only
 
 - ✅ **SEKTOR7** - Red team and malware development courses \
   https://sektor7.institute/ \
