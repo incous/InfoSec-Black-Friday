@@ -77,6 +77,59 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Black Friday: Lifetime Pro for the price of 2 years \
   Deal ends: 1 Dec 2026
 
+- ✅ **Akev** - Pro licence \
+  https://akev.dev/pricing \
+  30% off the Pro licence (one-time) with code `BLACKFRIDAY` \
+  Deal ends: 6 Dec 2026
+
+- ✅ **OffSeq Breach** - Breach monitoring \
+  https://breach.offseq.com/#pricing \
+  50% off the first billing period of any paid plan with code `BLACK` \
+  Deal ends: 1 Dec 2026 (UTC)
+
+- ✅ **PortDroid** - Swiss army knife of network security tools for Android \
+  https://portdroid.net/black-friday-2026/ \
+  50% off PortDroid Pro Lifetime: $9.49 → $4.69 (£8.49 → £4.19) with code `CYBER_2026` \
+  Offer starts 5 Nov 2026; deal ends 4 Dec 2026, 23:59 (time zone not stated)
+
+- ✅ **EnigmaIS** - myOwnCA \
+  https://myownca.com/ \
+  80% off the Starter Pack with code `BLACK-FRIDAY-2026-STARTER-80` \
+  Deal valid through 30 Nov 2026 (Warsaw time)
+
+- ✅ **S4E** - S4E Pro annual plan \
+  https://s4e.io/black-friday \
+  60% off a full year of S4E Pro with code `BLACKFRIDAY2026`, for new customers \
+  Offer valid until 1 Dec 2026 (UTC)
+
+- ✅ **Scarlet Shark** - Digital intelligence and threat hunting data \
+  https://scarletshark.com/promo/cybermonday2026.html \
+  Apply code `CyberMonday2026` to get a free 5 months on the Basic plan
+
+- ✅ **OffSeq Mirage** - OffSeq subscription plans \
+  https://mirage.offseq.com/pricing \
+  50% off the first 3 months of any plan \
+  Deal valid until 30 Nov 2026 (UTC)
+
+- ✅ **AppSecD** - Paid plans \
+  https://dedsecops.com/pricing/ \
+  30% off all paid plans: Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo \
+  Deal valid until 31 Dec 2026
+
+- ✅ **Termalin** - Yearly Pro plan \
+  https://termal.in/pricing/ \
+  16 months of yearly Pro for the price of 12 ($96, $8 → $6/mo), plus 100 GB cloud storage \
+  Deal valid until 1 Dec 2026
+
+- ✅ **AdverseMonitor** - Threat and exposure monitoring \
+  https://adversemonitor.com/black-friday \
+  40–60% off the first year of any yearly plan (MSSP plans from $234 for the first year) \
+  Deal valid until end of 2026
+
+- ✅ **Grayhat Warfare** - Public bucket search and misconfigured storage \
+  https://grayhatwarfare.com/packages \
+  Premium €160/year, Enterprise €450/year (see the site for details)
+
 ### 🎓 Online Courses & Training
 
 - ✅ **AppSecEngineer** - Hands-on AppSec, Cloud Security, AI Security and Threat Modeling training \
@@ -121,8 +174,9 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
 
 - ✅ **Altered Security** - Online security training labs \
   https://www.alteredsecurity.com/online-labs \
-  Up to 25% off when you bundle two or more learning paths (applied automatically) \
-  Azure course: 20% off with code `AZURE20OFF`
+  Up to 25% off when you bundle two or more learning paths \
+  Azure course: 20% off with code `AZURE20OFF` \
+  Valid 23 Nov - 6 Dec 2026
 
 - ✅ **Mobile Hacking Lab** - Offensive mobile security training \
   https://www.mobilehackinglab.com/black-friday-deals-mobile-security \
@@ -218,6 +272,49 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Deal ends: 30 Nov 2026, 23:59 UK time
 
 
+- ✅ **OSINT Combine Academy** - OSINT training \
+  https://training.osintcombine.com/ \
+  26% off on-demand courses and bundles; 40% off AI Essentials; 30% off Agentic AI for OSINT \
+  Codes on the page: `all-courses-all-bundles`, `ai-essentials-2026`, `ctrl_alt_agent` \
+  Ends Monday, 30 Nov 2026
+
+- ✅ **ISA** - Industrial cybersecurity training and standards \
+  https://programs.isa.org/blackfriday26 \
+  25% off eligible training and standards with code `BFCM26` at checkout \
+  Sale runs 17 to 30 Nov 2026
+
+- ✅ **Cloud Security Alliance** - Cloud security training and exam tokens \
+  https://cloudsecurityalliance.org/p/cyber-monday-2026 \
+  50% off CSA training and exam tokens (CCSK, CCZT, TAISE) \
+  Applies on 30 Nov 2026 only
+
+- ✅ **SEKTOR7** - Red team and malware development courses \
+  https://sektor7.institute/ \
+  Up to 40% off courses
+
+- ✅ **7ASecurity** - Pentests and code audit courses \
+  https://7asecurity.com/ \
+  50% off self-paced courses \
+  Deal valid until 10 Dec 2026
+
+- ✅ **PwnedLabs** - Hands-on cyber security labs \
+  https://pwnedlabs.io/ \
+  25% off boot camps and subscriptions
+
+- ✅ **13Cubed** - OS forensics and investigations courses \
+  https://training.13cubed.com/ \
+  $100 off all courses \
+  Deal valid until 30 Nov 2026
+
+- ✅ **ZephrSec** - Malwareless course \
+  https://malwareless.training/ \
+  13.37% off the Malwareless course \
+  Deal valid through the end of November 2026 (per ZephrSec's announcement on X)
+
+- ✅ **Linux Foundation** - Training and certifications \
+  https://training.linuxfoundation.org/ \
+  Up to 65% off courses and certifications
+
 ### 🧪 Practical Labs
 
 - ✅ **Invictus Incident Response Academy & CloudLabs** - Incident response courses and labs \
@@ -245,6 +342,16 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Pro 1-year plan 30% off, Pro 2-year plan 50% off \
   Deal ends: 28 Nov 2026 (UTC)
 
+
+- ✅ **SecDim** - In-repository appsec and devsecops wargame \
+  https://secdim.com/pricing \
+  Professional plan 35% off with code `APPSECONABUDGET2026` \
+  Team plan 25% off with code `APPSECTEAM2026`
+
+- ✅ **TryHackMe** - Gamified, hands-on cyber security training \
+  https://tryhackme.com/black-friday \
+  40% off the Premium and Max plans \
+  Deal valid until 27 Nov 2026 (UTC)
 
 ### 🎯 Mini Courses
 
@@ -284,6 +391,31 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   https://covertinstruments.com/collections/black-friday-sale \
   Discount from 20% off, plus a free gift depending on order value \
   Deal ends: 7 Dec 2026, 05:00 UTC (countdown on the site)
+
+- ✅ **KSEC Labs** - Hacker hardware, red team tools and security research devices \
+  https://labs.ksec.co.uk/black-friday-sale/ \
+  Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and other devices
+
+### 🔐 Privacy & Password Tools
+
+- ✅ **Proton Pass** - Password manager \
+  https://proton.me/pass \
+  60% off Pass Plus
+
+- ✅ **Keeper Security** - Password manager \
+  https://www.keepersecurity.com/pricing/personal-and-family.html \
+  40% off personal plans
+
+- ✅ **DeleteMe** - Personal data removal \
+  https://joindeleteme.com/ \
+  20% off privacy plans for new members
+
+### 📚 Books
+
+- ✅ **No Starch Press** - Technically focused books on programming, cybersecurity, Linux and more \
+  https://nostarch.com/ \
+  40% off sitewide \
+  Deal ends: 30 Nov 2026
 
 ### ☁️ Services
 
