@@ -106,6 +106,16 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   https://scarletshark.com/promo/cybermonday2026.html \
   Apply code `CyberMonday2026` to get a free 5 months on the Basic plan
 
+- ✅ **OffSeq Mirage** - OffSeq subscription plans \
+  https://mirage.offseq.com/pricing \
+  50% off the first 3 months of any plan \
+  Deal valid until 30 Nov 2026 (UTC)
+
+- ✅ **AppSecD** - Paid plans \
+  https://dedsecops.com/pricing/ \
+  30% off all paid plans: Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo \
+  Deal valid until 31 Dec 2026
+
 ### 🎓 Online Courses & Training
 
 - ✅ **AppSecEngineer** - Hands-on AppSec, Cloud Security, AI Security and Threat Modeling training \
@@ -268,6 +278,29 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   https://sektor7.institute/ \
   Up to 40% off courses
 
+- ✅ **7ASecurity** - Pentests and code audit courses \
+  https://7asecurity.com/ \
+  50% off self-paced courses \
+  Deal valid until 10 Dec 2026
+
+- ✅ **PwnedLabs** - Hands-on cyber security labs \
+  https://pwnedlabs.io/ \
+  25% off boot camps and subscriptions
+
+- ✅ **13Cubed** - OS forensics and investigations courses \
+  https://training.13cubed.com/ \
+  $100 off all courses \
+  Deal valid until 30 Nov 2026
+
+- ✅ **ZephrSec** - Malwareless course \
+  https://malwareless.training/ \
+  13.37% off the Malwareless course \
+  Deal valid through the end of November 2026 (per ZephrSec's announcement on X)
+
+- ✅ **Linux Foundation** - Training and certifications \
+  https://training.linuxfoundation.org/ \
+  Up to 65% off courses and certifications
+
 ### 🧪 Practical Labs
 
 - ✅ **Invictus Incident Response Academy & CloudLabs** - Incident response courses and labs \
@@ -300,6 +333,11 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   https://secdim.com/pricing \
   Professional plan 35% off with code `APPSECONABUDGET2026` \
   Team plan 25% off with code `APPSECTEAM2026`
+
+- ✅ **TryHackMe** - Gamified, hands-on cyber security training \
+  https://tryhackme.com/black-friday \
+  40% off the Premium and Max plans \
+  Deal valid until 27 Nov 2026 (UTC)
 
 ### 🎯 Mini Courses
 
