@@ -392,6 +392,31 @@ Last checked: 26 Nov 2026. Codes and dates change, so re-check the vendor's page
   Discount from 20% off, plus a free gift depending on order value \
   Deal ends: 7 Dec 2026, 05:00 UTC (countdown on the site)
 
+- ✅ **KSEC Labs** - Hacker hardware, red team tools and security research devices \
+  https://labs.ksec.co.uk/black-friday-sale/ \
+  Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and other devices
+
+### 🔐 Privacy & Password Tools
+
+- ✅ **Proton Pass** - Password manager \
+  https://proton.me/pass \
+  60% off Pass Plus
+
+- ✅ **Keeper Security** - Password manager \
+  https://www.keepersecurity.com/pricing/personal-and-family.html \
+  40% off personal plans
+
+- ✅ **DeleteMe** - Personal data removal \
+  https://joindeleteme.com/ \
+  20% off privacy plans for new members
+
+### 📚 Books
+
+- ✅ **No Starch Press** - Technically focused books on programming, cybersecurity, Linux and more \
+  https://nostarch.com/ \
+  40% off sitewide \
+  Deal ends: 30 Nov 2026
+
 ### ☁️ Services
 
 - ✅ **Proton Mail / VPN / Pass / Drive** - Encrypted services \
